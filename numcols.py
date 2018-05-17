@@ -5,8 +5,8 @@
 # Shawn Driscoll
 # 20140509
 #
-# pulls head of file or pipped lines from stdin and returns a column count 
-# by tab delims per row
+# pulls head of file or pip'd lines from stdin and returns a column count 
+# by tab delims per row. super handy.
 #
 
 import sys,os
